@@ -1,5 +1,5 @@
 # planckRV32I
-Core based on RV32I ISA
+Core based on RV32I ISA... not really. VRISK-V ISA, a MORE REDUCED ISA based on RISC-V.
 
 Everything posted here is in early development, they are no licence for now. No Copyright and Copyleft (for now)
 
