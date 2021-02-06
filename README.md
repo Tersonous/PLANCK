@@ -11,8 +11,11 @@ Also thanks for : https://github.com/SymbioticEDA/riscv-formal
 Very Reduced Instruction Computer-V ISA
 
 Same registers = x0 to x31
+
 No pseudoinstructions with some exceptions
+
 No branching instructions (execute instruction one after another)
+
 No change in the Stack
 
 First Core Implementation in Planck
