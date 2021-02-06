@@ -6,7 +6,7 @@ As my first serious verilog project, i use tips from https://github.com/ataradov
 
 Also thanks for : https://github.com/SymbioticEDA/riscv-formal
 
-# RISC-V ISA
+# VRISC-V ISA
 
 Very Reduced Instruction Computer-V ISA
 
